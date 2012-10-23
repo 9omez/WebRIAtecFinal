@@ -1,2 +1,68 @@
 @charset "utf-8";
 /* CSS Document */
+
+.cajaleft
+{
+	background:url(../images/cajaright.png) center center no-repeat;
+	width:275px;
+	height:408px;
+	padding-left:10px;
+	padding-top:10px;
+	padding-right:10px;
+	text-align:left;
+}
+.cajaright
+{
+	background:url(../images/cajaright.png) center center no-repeat;
+	width:275px;
+	height:408px;
+	padding-left:10px;
+	padding-top:10px;
+	padding-right:10px;
+	text-align:left;
+}
+.cajacenter
+{
+	background:url(../images/cajacenter.png) center center no-repeat;
+	width:550px;
+	height:382px;
+	padding-left:10px;
+	padding-top:10px;
+	padding-right:10px;
+	text-align:justify;
+}
+
+
+.list {
+list-style: circle;
+}
+
+.leyenda li {
+    display: block;
+    margin-left: -16px;
+    font-size: 13px;
+}
+
+a{
+	text-decoration:none;
+}
+
+.temario{
+	color:white;
+	font-size:15.9px;
+}
+
+.temario td {
+    padding-right: 50px;
+}
+
+span.little{
+	font-size:15px;
+	color:white;
+}
+
+.txt5 {
+    color: #CCCC00;
+    font-family: "Times New Roman",Times,serif;
+    font-weight: bold;
+}
