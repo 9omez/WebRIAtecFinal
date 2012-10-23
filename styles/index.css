@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+.cajaleft
+{
+	background:url(../images/cajaleft.png) center center no-repeat;
+	width:275px;
+	height:190px;
+	padding-left:10px;
+	padding-top:10px;
+	padding-right:10px;
+}
+
+.cajaright
+{
+	background:url(../images/cajaright.png) center center no-repeat;
+	width:275px;
+	height:408px;
+	padding-left:10px;
+	padding-top:10px;
+	padding-right:10px;
+}
