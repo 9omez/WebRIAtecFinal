@@ -51,10 +51,12 @@ a{
 	color:white;
 	font-size:15px;
 	margin-left: 10px;
+	width:100%;
+	margin-right:10px;
 }
 
 .temario td {
-    padding-right: 50px;
+    padding-right: 20px;
 }
 
 span.little{
