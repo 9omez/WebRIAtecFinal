@@ -1,2 +1,12 @@
 @charset "utf-8";
 /* CSS Document */
+.cajacenter
+{
+	background:url(../images/cajacenter-empleo.png) center center no-repeat;
+	width:860px;
+	height:382px;
+	padding-left:10px;
+	padding-top:10px;
+	padding-right:10px;
+	text-align:justify;
+}
